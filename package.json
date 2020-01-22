@@ -1,0 +1,24 @@
+{
+  "name": "insure-landing-page-master",
+  "version": "1.0.0",
+  "description": "Front end masters challenge",
+  "main": "index.js",
+  "homepage": "https://unkletayo.github.io/insure-landing-page-master",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnkleTayo/front-end-master-challenge.git"
+  },
+  "author": "Unkletayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnkleTayo/front-end-master-challenge/issues"
+  },
+  "homepage": "https://github.com/UnkleTayo/front-end-master-challenge#readme"
+}
